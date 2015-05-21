@@ -5,6 +5,11 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <TextView
+        android:text="teste"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 
     <TextView
         android:id="@+id/loginTvName"
